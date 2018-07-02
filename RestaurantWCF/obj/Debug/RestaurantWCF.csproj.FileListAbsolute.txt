@@ -1,0 +1,20 @@
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\obj\Debug\RestaurantWCF.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\bin\RestaurantWCF.dll.config
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\bin\RestaurantWCF.dll
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\bin\RestaurantWCF.pdb
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\obj\Debug\RestaurantWCF.dll
+C:\Users\Olek\source\repos\RestaurantWSF\RestaurantWSF\obj\Debug\RestaurantWCF.pdb
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\bin\RestaurantWCF.dll.config
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\bin\RestaurantWCF.dll
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\bin\RestaurantWCF.pdb
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\obj\Debug\RestaurantWCF.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\obj\Debug\RestaurantWCF.dll
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\obj\Debug\RestaurantWCF.pdb
+C:\Users\Olek\source\repos\RestaurantWCF\RestaurantWCF\obj\Debug\RestaurantWCF.csprojAssemblyReference.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\RestaurantWCF.dll.config
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\RestaurantWCF.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\RestaurantWCF.pdb
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\RestaurantWCF.csprojAssemblyReference.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\RestaurantWCF.csproj.CoreCompileInputs.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\RestaurantWCF.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\RestaurantWCF.pdb

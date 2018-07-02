@@ -1,0 +1,38 @@
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.Properties.Resources.resources
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.csproj.GenerateResource.cache
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.pdb
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.AddForm.resources
+C:\Users\Olek\source\repos\RestaurantWSF\OrderApp\obj\Debug\OrderApp.OrderForm.resources
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.AddForm.resources
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.OrderForm.resources
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.Properties.Resources.resources
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.csproj.GenerateResource.cache
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.pdb
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\Olek\source\repos\RestaurantWCF\OrderApp\obj\Debug\OrderApp.OrderHistoryForm.resources
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\bin\Debug\NLog.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\bin\Debug\NLog.xml
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.AddForm.resources
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.OrderForm.resources
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.OrderHistoryForm.resources
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.Properties.Resources.resources
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.csproj.GenerateResource.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.csproj.CopyComplete
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Olek\Desktop\restaurant test\Restaurant\OrderApp\obj\Debug\OrderApp.pdb

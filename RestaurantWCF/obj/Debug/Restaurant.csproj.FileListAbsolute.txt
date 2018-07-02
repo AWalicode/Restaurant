@@ -1,0 +1,10 @@
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\Restaurant.dll.config
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\Restaurant.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\Restaurant.pdb
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\Restaurant.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\Restaurant.pdb
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\NLog.dll
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\bin\NLog.xml
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\Olek\Desktop\restaurant test\Restaurant\RestaurantWCF\obj\Debug\Restaurant.csprojAssemblyReference.cache

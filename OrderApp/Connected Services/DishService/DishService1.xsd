@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Wostal.WCF.Restaurant.Contract" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Wostal.WCF.Restaurant.Contract" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfDishGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DishGroup" nillable="true" type="tns:DishGroup" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDishGroup" nillable="true" type="tns:ArrayOfDishGroup" />
+  <xs:complexType name="DishGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Additions" nillable="true" type="tns:ArrayOfAddition" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Meals" nillable="true" type="tns:ArrayOfDish" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DishGroup" nillable="true" type="tns:DishGroup" />
+  <xs:complexType name="ArrayOfAddition">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Addition" nillable="true" type="tns:Addition" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAddition" nillable="true" type="tns:ArrayOfAddition" />
+  <xs:complexType name="Addition">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DishGroupId" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Addition" nillable="true" type="tns:Addition" />
+  <xs:complexType name="ArrayOfDish">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Dish" nillable="true" type="tns:Dish" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDish" nillable="true" type="tns:ArrayOfDish" />
+  <xs:complexType name="Dish">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DishGroupId" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Dish" nillable="true" type="tns:Dish" />
+  <xs:complexType name="Order">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Comment" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DishWithAdditionses" nillable="true" type="tns:ArrayOfDishWithAddition" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Order" nillable="true" type="tns:Order" />
+  <xs:complexType name="ArrayOfDishWithAddition">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DishWithAddition" nillable="true" type="tns:DishWithAddition" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDishWithAddition" nillable="true" type="tns:ArrayOfDishWithAddition" />
+  <xs:complexType name="DishWithAddition">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Dish">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Additions" nillable="true" type="tns:ArrayOfAddition" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DishWithAddition" nillable="true" type="tns:DishWithAddition" />
+  <xs:complexType name="ArrayOfOrder">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Order" nillable="true" type="tns:Order" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfOrder" nillable="true" type="tns:ArrayOfOrder" />
+</xs:schema>
